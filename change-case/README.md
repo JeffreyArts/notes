@@ -1,3 +1,5 @@
+# NPM Module Change-case
+
 The [change-case](https://www.npmjs.com/package/change-case) npm package provides several functions to transform strings into different cases. Here are some examples using the input string "je moeder heet Henk":
 
 
